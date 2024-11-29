@@ -81,7 +81,7 @@ main div {
 }
 
 main {
-    margin: 2em 1em;
+    
 }
 
 /*ASIDE*/
@@ -132,7 +132,7 @@ section p {
 }
 
 section {
-    margin: auto;
+    margin: 2em 1em;
 }
 
 /*FOOTER*/
@@ -169,7 +169,8 @@ footer hr {
 }
 
 #ultima {
-    padding: 2em
+    padding: 1em 2em 4em 2em;
+    font-size: 0.8em;
 }
 
 /*ADDRESS*/
